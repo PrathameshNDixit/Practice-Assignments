@@ -1,0 +1,25 @@
+body{
+    background-color: #ddd;
+}
+.para{
+    display: none;
+    padding: 20px;
+    background-color: rgb(253, 180, 180);
+    border-left: 5px solid red;
+    border-radius: 10px;
+}
+.toggle{
+    display: block;
+}
+form{
+    background-color: #fff;
+    padding: 50px;
+    box-shadow: 2px 2px 5px grey;
+    width: 500px;
+    border-radius: 10px;
+    margin-inline: auto;
+    font-family:Arial, Helvetica, sans-serif
+}
+td{
+    padding-bottom: 20px;
+}
